@@ -1,0 +1,103 @@
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #18182f;
+      color: #e0e0e0;
+      font-family: 'Arial', sans-serif;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    #game-container {
+      position: relative;
+      width: 800px;
+      height: 600px;
+      background-color: #262639;
+      border: 4px solid #4e5166;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+      overflow: hidden;
+    }
+
+    #gameCanvas {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    #ui-container {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      font-size: 16px;
+    }
+
+    #instructions {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      background-color: rgba(13, 6, 44, 0.7);
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 12px;
+      max-width: 300px;
+    }
+
+    #start-screen {
+      font-family: 'Georgia', serif;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('./assets/indir.jpg');
+      background-position: center;
+      background-repeat: no-repeat; 
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      z-index: 100;
+    }
+
+    #start-screen h1 {
+      color: #8d9193;
+      text-shadow: 0 0 10px #aaa7a7;
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+
+    #start-button {
+      background-color: #4e5166;
+      color: #e0e0e0;
+      background-color: #838058;
+      border: 2px solid ;
+      padding: 10px 20px;
+      font-size: 18px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    #start-button:hover {
+      background-color: #aba02c;
+      color: #262639;
+    }
+
+    .game-info {
+  color: #f5eeee;
+  font-size: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 20px;
+  line-height: 1.5;
+}
+.highlight {
+  color: #c7b96a; 
+  font-weight: bold;
+}
+
+
+  

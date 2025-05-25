@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sırlar Odası</title>
+
+  <link rel="stylesheet" href="style.css" />
+
+</head>
+<body>
+
+  <div id="game-container">
+    <canvas id="gameCanvas" width="800" height="600"></canvas>
+//Oyun başlangıç ekranı tasarımı
+    <div id="start-screen">
+      <h1 style="color:#a59f9f;margin-bottom:20px">Sırlar Odası</h1>
+      <p class="game-info">
+      <span class="highlight">Anahtarları topla, Sırlar Odasını aç!</span>
+    <br><br>
+    Kontroller:<br> "← →"&nbspHareket <br> "Space"&nbspZıplama <br> "S"&nbspGörünmezlik Pelerini
+  </p>
+      <button id="start-button">OYUNA BAŞLA</button>
+    </div>
+  </div>
+
+   <script src="game.js"></script>
+
+</body>
+</html>       
