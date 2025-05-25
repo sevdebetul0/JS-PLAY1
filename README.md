@@ -18,12 +18,11 @@ Oyuna başladığınızda kontroller hakkında bilgilendirici bir ekran ile kar�
 - `←` ve `→`: Karakteri sola veya sağa hareket ettirir  
 - `Space`: Zıplama  
 - `S`: Görünmezlik Pelerini’ni etkinleştirir
-  
-![Ekran görüntüsü 2025-05-25 161444](https://github.com/user-attachments/assets/f975d49e-26e7-44b7-b4ed-e525bede9473)
 
 🎯 **Amaç:**  
 Tüm anahtarları toplayarak kapıya ulaşmak ve bir sonraki seviyeye geçmek. Son seviyede ise Sırlar Odası’nın kapısını açmak!
 
+![Ekran görüntüsü 2025-05-25 161444](https://github.com/user-attachments/assets/f975d49e-26e7-44b7-b4ed-e525bede9473)
 ---
 
 ## 🧱 Özellikler
