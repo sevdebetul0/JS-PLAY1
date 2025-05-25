@@ -6,6 +6,11 @@
 Oyuncu, muhafızlardan kaçarak ve anahtarları toplayarak Sırlar Odası'nın kapısını açmaya çalışır. Görünmezlik Pelerini sayesinde muhafızların görüş açısından geçerek gerçeklikten kaçar.
 
 ---
+## Oyunu Oynamak İçin
+
+[Oyunu oynamak için tıklayın](https://sevdebetul0.github.io/JS-PLAY1/)
+
+---
 
 ## 🎮 Nasıl Oynanır?
 
