@@ -1,5 +1,7 @@
 # 🧙‍♀️ Sırlar Odası
 
+![Ekran görüntüsü 2025-05-25 161321](https://github.com/user-attachments/assets/303d565d-dd65-41dd-876f-e6e868f8f7e9)
+
 **Sırlar Odası**, HTML5 Canvas ve JavaScript kullanılarak geliştirilmiş, seviye tabanlı bir kaçış oyunudur. [Fake to Escape](https://ashleyad.itch.io/fake-to-escape) oyunundan ilham alınmıştır. 
 Oyuncu, muhafızlardan kaçarak ve anahtarları toplayarak Sırlar Odası'nın kapısını açmaya çalışır. Görünmezlik Pelerini sayesinde muhafızların görüş açısından geçerek gerçeklikten kaçar.
 
@@ -7,16 +9,20 @@ Oyuncu, muhafızlardan kaçarak ve anahtarları toplayarak Sırlar Odası'nın k
 
 ## 🎮 Nasıl Oynanır?
 
+📺 [Nasıl oynanacağını görmek için tıklayın](https://www.youtube.com/watch?v=Cmeuo_diOH8)
+
+![Ekran görüntüsü 2025-05-25 161413](https://github.com/user-attachments/assets/476a1393-b73c-4ce9-8787-bb21e636ae94)
+
 Oyuna başladığınızda kontroller hakkında bilgilendirici bir ekran ile karşılaşırsınız:
 
 - `←` ve `→`: Karakteri sola veya sağa hareket ettirir  
 - `Space`: Zıplama  
 - `S`: Görünmezlik Pelerini’ni etkinleştirir
+  
+![Ekran görüntüsü 2025-05-25 161444](https://github.com/user-attachments/assets/f975d49e-26e7-44b7-b4ed-e525bede9473)
 
 🎯 **Amaç:**  
 Tüm anahtarları toplayarak kapıya ulaşmak ve bir sonraki seviyeye geçmek. Son seviyede ise Sırlar Odası’nın kapısını açmak!
-
-📺 [Nasıl oynanacağını görmek için tıklayın](https://www.youtube.com/watch?v=Cmeuo_diOH8)
 
 ---
 
